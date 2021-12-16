@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Cluster>
+<Nodos>
+    <Nombre>Nodo1</Nombre><IP>192.168.1.1</IP>
+    <MV>
+        <Nombre>MV1</Nombre>
+        <SO>Windows 10</SO>
+        <Red>
+            <IP>192.168.1.2</IP>
+        </Red>
+        </MV>
+    <MV>
+        <Nombre>MV2</Nombre>
+        <SO>Windows 7</SO>
+        <Red>
+            <IP>192.168.1.3</IP>
+        </Red>
+    </MV>
+    
+</Nodos>
+
+<Nodos>
+    <Nombre>Nodo2</Nombre><IP>192.168.2.1</IP>
+    <MV>
+        <Nombre>MV3</Nombre>
+        <SO>Ubuntu</SO>
+        <Red>
+            <IP>192.168.2.2</IP>
+        </Red>
+        </MV>
+    <MV>
+        <Nombre>MV4</Nombre>
+        <SO>Windows 10</SO>
+        <Red>
+        <IP>192.168.2.3</IP>
+         </Red>
+    </MV>
+</Nodos>
+
+<Nodos>
+    <Nombre>Nodo3</Nombre><IP>192.168.3.1</IP>
+    <MV>
+        <Nombre>MV5</Nombre>
+        <SO>Lubuntu</SO>
+        <Red>
+            <IP>192.168.3.2</IP>
+        </Red>
+    </MV>
+    <MV>
+        <Nombre>MV6</Nombre>
+        <SO>MAC</SO>
+        <Red>
+            <IP>192.168.3.3</IP>
+        </Red>
+    </MV>
+</Nodos>
+
+<Nodos>
+    <Nombre>Nodo4</Nombre><IP>192.168.4.1</IP>
+    <MV>
+        <Nombre>MV7</Nombre>
+        <SO>Guadalinex</SO>
+        <Red>
+            <IP>192.168.4.2</IP>
+        </Red>
+    </MV>
+    <MV>
+        <Nombre>MV8</Nombre>
+        <SO>Windows XP</SO>
+        <Red>
+            <IP>192.168.4.3</IP>
+        </Red>
+    </MV>
+</Nodos>
+</Cluster>
