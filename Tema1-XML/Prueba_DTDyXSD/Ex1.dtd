@@ -1,0 +1,13 @@
+<!ELEMENT supermercado (articulo)>
+<!ELEMENT articulo (descripcion, marca?, medida, seccion, oferta?, perecedero?)>
+<!ATTLIST articulo n_art ID #REQUIRED>
+<!ATTLIST articulo cantidad CDATA #IMPLIED>
+<!ELEMENT descripcion (#PCDATA)>
+<!ATTLIST marca tipo CDATA #IMPLIED>
+<!ELEMENT marca (#PCDATA)>
+<!ATTLIST medida unidad CDATA #IMPLIED>
+<!ELEMENT medida (#PCDATA)>
+<!ELEMENT seccion (#PCDATA)>
+<!ELEMENT oferta (#PCDATA)>
+<!ELEMENT perecedero (caducidad)>
+<!ELEMENT caducidad (#PCDATA)>

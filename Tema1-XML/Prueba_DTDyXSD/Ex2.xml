@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE libreria SYSTEM "Ex2.dtd">
+<libreria catalogo="Historias">
+    <libro titulo="Juan y su caballo" editorial="Pepeditorial" autor="Juan Rodriguez"/>
+    <revista marca="MARCA">
+        <numero>1 Edicion</numero>
+        <titular>El examen de LDM</titular>
+        <editorial>San Pedro</editorial>
+    </revista>
+    <periodico fecha="10/02/2022" nombre="InfoDia" version_web="www.infodia.com"/>
+</libreria>
