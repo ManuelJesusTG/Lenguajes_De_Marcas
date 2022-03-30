@@ -1,0 +1,7 @@
+Ejercicio 1:
+
+-El background del cuerpo del fichero es de color Marron anaranjado.
+-El Header del fichero tiene puesto por defecto en el css que es de color rojizo, con un tamaño de fuente de 20 pt
+-Los hr puestos para separar el contenido son de color azul
+- El estilo de "p" es un tamaño de fuente de 12 pt y un margen izquierdo de 15 px, a su ver lo que se haya dentro del verso es de color rojizo y con un margen izquierdo de 60 px.
+-Los links estan puestos de forma en que al aparecer sin mas tienen el color verde, al acceder a ellos almenos una vez se cambia a color amarillo, al dejar el cursor sobre ellos cambia al color negro, y al mantener el click sobre el link se pondra de color azul.

@@ -1,0 +1,5 @@
+Ejercicio 2:
+
+-Los ultimos parrafos se muestran distintos a los 2 primeros por que no se aplico el estilo
+creado en el css "p.verse", para dejarlos todos iguales debemos o añadir la clase a el resto
+de parrafos o borrarlas de los 2 primeros, asi que lo añadiremos por que asi lo pide el ejercicio
