@@ -1,0 +1,141 @@
+*{
+    margin: 10px;
+    padding: 10px;
+}
+#contenedor {
+    width: 1200px;
+    height: 800px;
+    background-color: rgb(0, 255, 234);
+    border-radius: 10px;
+    margin-bottom: 0px;
+}
+#header{
+    margin: 0%;
+    padding: 0%;
+}
+#boton{
+    position: relative;
+    left: 90%;
+    padding: 0;
+    border: none;
+    background: none;
+    color: white;
+    font-weight: bolder;
+}
+
+
+#nav {
+    margin: 0%;
+    padding: 0%;
+    display: inline-flex;
+}
+#logo {
+    width: 20%;
+    height: 20%;
+}
+#SingUp {
+    color: white;
+    background-color: black;
+    position: relative;
+    border-radius: 12px;
+    height: 20%;
+    top: 20px;
+    left: 40px;
+}
+#menu{
+    border-radius: 8px;
+    border: 2px grey;
+    background-color: rgb(199, 246, 250);
+    height: 20%;
+    padding: 0%;
+    margin: 0%;
+    display: inline-flex;
+    position: relative;
+    left: 60px;
+}
+#apartado{
+    position: relative;
+    top: 20px;
+}
+
+#portada{
+    display: inline-flex;
+    z-index: 10;
+    width: 1100px;
+    height: 800px;
+    margin-right: 10px;
+}
+
+#mono{
+    margin-right: 0%;
+    float: left;
+    left: 0%;
+}
+
+#monkey{
+    width: 110%;
+    transform: scaleX(-1)
+}
+
+#info{
+    margin-left: 0%;
+    margin-right: 5px;
+    width: 120%;
+}
+
+#Newsletter{
+    color: white;
+    font-size: 500%;
+    font-weight: bolder;
+}
+#texto{
+    color: rgb(29, 119, 128);
+    font-size: 150%;
+    font-size: bold;
+}
+#SingUpFree{
+    color: white;
+    font-size: bolder;
+    background-color: tomato;
+    border-radius: 12px;
+    border:0px;
+    width: 200px;
+    height: 50px;
+}
+#Need{
+    text-decoration: underline;
+    color: rgb(29, 119, 128);
+}
+#fondo{
+    width: 1200px;
+    height: 600px;
+    background-color: grey;
+    margin-top: 0px;
+}
+#barra{
+    width: 1000px;
+    height: 600px;
+    border-radius: 12px;
+    background-color: rgb(211, 211, 211);
+    top: 95%;
+    left: 80px;
+    z-index: 4;
+    position: absolute;
+    left: 8%;
+}
+
+#agrupar{
+    margin-top: -50px;
+    display: inline-flex;
+    height: 80%;
+}
+
+#apartados{
+    width: 200px;
+    text-align: center;
+}
+
+#imagenes {
+    position: relative;
+    left: -10px;
+}
